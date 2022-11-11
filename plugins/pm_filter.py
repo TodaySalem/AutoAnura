@@ -109,7 +109,7 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/+KI3RfJh67bgzMTVl')
+            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/+w_YBG698i4dkMjll')
         ]
     )
 
@@ -436,7 +436,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('⚡ JOIN GROUP ⚡', url='https://t.me/+wphGKbzsA105M2Jl'),
+            InlineKeyboardButton('⚡ JOIN GROUP ⚡', url='https://t.me/+w_YBG698i4dkMjll'),
             InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/+d_dXqNWuJRA1Y2E9')
         ], [
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
@@ -689,7 +689,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/+KI3RfJh67bgzMTVl')
+            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/+w_YBG698i4dkMjll')
         ]
     )
 
