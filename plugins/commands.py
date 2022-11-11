@@ -26,7 +26,7 @@ async def start(client, message):
                 InlineKeyboardButton('⚡ UᎮDΛTΞS ⚡', url='https://t.me/+d_dXqNWuJRA1Y2E9')
             ],
             [
-                InlineKeyboardButton('⚡ JOIN GROUP ⚡', url=f"https://t.me/+_wSxoxsif-00ZWZl"),
+                InlineKeyboardButton('⚡ JOIN GROUP ⚡', url=f"https://t.me/+w_YBG698i4dkMjll"),
             ],
             [
                 InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)
@@ -47,7 +47,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ JOIN GROUP ⚡', url='https://t.me/+_wSxoxsif-00ZWZl'),
+            InlineKeyboardButton('⚡ JOIN GROUP ⚡', url='https://t.me/+w_YBG698i4dkMjll'),
             InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/+d_dXqNWuJRA1Y2E9')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
@@ -93,7 +93,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ JOIN GROUP ⚡', url='https://t.me/+_wSxoxsif-00ZWZl'),
+            InlineKeyboardButton('⚡ JOIN GROUP ⚡', url='https://t.me/+w_YBG698i4dkMjll'),
             InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/+d_dXqNWuJRA1Y2E9')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
@@ -247,7 +247,7 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('JOIN GROUP', url='https://t.me/+_wSxoxsif-00ZWZl') ] ] ),
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('JOIN GROUP', url='https://t.me/+w_YBG698i4dkMjll') ] ] ),
         protect_content=True if pre == 'filep' else False,
         )
                     
